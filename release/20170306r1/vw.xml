@@ -1,0 +1,97 @@
+<VWCFG>
+  <ProgramCategory>
+    <Program name="TS" value="对刀程序">
+    </Program>
+    <Program name="SS" value="型面精加工">
+    </Program>
+    <Program name="SV" value="型面半精加工">
+    </Program>
+    <Program name="SW" value="型面精加工">
+    </Program>
+    <Program name="SC" value="型面预清根">
+    </Program>
+    <Program name="SR" value="型面清根">
+    </Program>
+    <Program name="CS" value="轮廓粗加工">
+    </Program>
+    <Program name="CV" value="轮廓半精加工">
+    </Program>
+    <Program name="CW" value="轮廓精加工">
+    </Program>
+    <Program name="CWD" value="轮廓精加工（有刀补）">
+    </Program>
+    <Program name="CR" value="轮廓修R角">
+    </Program>
+    <Program name="CRD" value="轮廓修R角（有刀补）">
+    </Program>
+    <Program name="KD" value="点孔">
+    </Program>
+    <Program name="KX" value="刻线">
+    </Program>
+  </ProgramCategory>
+  <PropCategory name="零件名称">
+    <PropName>左侧围</PropName>
+    <PropName>右侧围</PropName>
+    <PropName>翼子板</PropName>
+    <PropName>前盖外板</PropName>
+    <PropName>前盖内板</PropName>
+    <PropName>前门外板</PropName>
+    <PropName>前门内板</PropName>
+    <PropName>后门外板</PropName>
+    <PropName>后门内板</PropName>
+    <PropName>后盖外板上部</PropName>
+    <PropName>后盖外板上部</PropName>
+    <PropName>后盖内板</PropName>
+    <PropName>满车顶</PropName>
+    <PropName>天窗车顶</PropName>
+    <PropName>天窗加强板</PropName>
+  </PropCategory>
+  <PropCategory name="基准">
+    <PropName>工件上平面</PropName>
+    <PropName>工件底平面</PropName>
+    <PropName>按对刀程序</PropName>
+  </PropCategory>
+  <PropCategory name="工序">
+    <PropName>OP10</PropName>
+    <PropName>OP20</PropName>
+    <PropName>OP30</PropName>
+    <PropName>OP40</PropName>
+    <PropName>OP50</PropName>
+    <PropName>OP60</PropName>
+    <PropName>OP70</PropName>
+    <PropName>检具</PropName>
+  </PropCategory>
+  <PropCategory name="左右件">
+    <PropName>左件</PropName>
+    <PropName>右件</PropName>
+  </PropCategory>
+  <PropCategory name="模具名">
+    <PropName>上模</PropName>
+    <PropName>下模</PropName>
+  </PropCategory>
+  <PropCategory name="正反面">
+    <PropName>正面</PropName>
+    <PropName>反面</PropName>
+  </PropCategory>
+  <PropCategory name="单件名">
+    <PropName>上模座</PropName>
+    <PropName>下模座</PropName>
+    <PropName>模芯</PropName>
+    <PropName>凹模</PropName>
+    <PropName>压边圈</PropName>
+    <PropName>卸料板</PropName>
+    <PropName>小卸料板</PropName>
+    <PropName>上刀</PropName>
+    <PropName>下刀</PropName>
+    <PropName>翻边刀</PropName>
+    <PropName>斜楔上刀</PropName>
+    <PropName>斜楔下刀</PropName>
+    <PropName>镶块</PropName>
+  </PropCategory>
+  <WorkFolder>D:\dev\vw\trunk\doc</WorkFolder>
+  <ListFolder>D:\dev\vw\trunk\doc</ListFolder>
+  <TimeFolder>D:\dev\vw\trunk\doc</TimeFolder>
+  <CIMCOExe>D:\dev\vw\trunk\doc\CIMCOEdit5.5\CIMCOEdit.exe</CIMCOExe>
+  <OpenpgmList>True</OpenpgmList>
+  <OpenpgmTimeList>True</OpenpgmTimeList>
+</VWCFG>

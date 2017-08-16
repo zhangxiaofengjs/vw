@@ -1,0 +1,363 @@
+NC-Documentation: d:\work\新建文件夹\cgr-3ed_809_605_606_tool_design_op_60_78-72d_026009_026010_vw511cs_tmm_20150212.cad
+=============================================================================
+PUTNC Datei: d:\work\新建文件夹\nc\cgr-3ed_809_605_606_tool_design_op_60_78-72d_026009_026010_vw511cs_tmm_20150212-001    Time: Thu Nov 17 13:00:06 2016
+
+ NC-Job:ts-01 
+  Tool  : T BC D20 L152  Ball cutter D=20.000 mm R=10.000 mm
+     Cutting data     : S=0 F=0 mm
+     Machine Axis     : A=0.000 C=0.000
+     Type             : 3-axis
+     Function         : MSurf
+     Wall thick       : 0.00 mm
+     Stock allow      : 0.00 mm
+     Stepover         : 2.00 mm
+     CutDir           : Lace cut
+     Tool reference   : Center
+     NC Time          : 0:00:00  min
+     Cutter Name      : T BC D20 L152
+     Cutter Length    : 152.00 mm
+     Total Tool Length: 232.00 mm
+     Tool Feed        : 0.000 mm
+
+ NC-Job:ts-02 
+  Tool  : T BC D20 L152  Ball cutter D=20.000 mm R=10.000 mm
+     Cutting data     : S=0 F=0 mm
+     Machine Axis     : A=0.000 C=0.000
+     Type             : 3-axis
+     Function         : MSurf
+     Wall thick       : 0.00 mm
+     Stock allow      : 0.00 mm
+     Stepover         : 2.00 mm
+     CutDir           : Lace cut
+     Tool reference   : Center
+     NC Time          : 0:00:00  min
+     Cutter Name      : T BC D20 L152
+     Cutter Length    : 152.00 mm
+     Total Tool Length: 232.00 mm
+     Tool Feed        : 0.000 mm
+
+ NC-Job:cs-01 
+  Tool  : T FC D63 L250 R0  Flat cutter D=63.000 mm R=0.000 mm
+     Cutting data     : S=0 F=0 mm
+     Machine Axis     : A=0.000 C=0.000
+     Type             : 2-axis
+     Function         : MCont
+     Wall thick       : 0.00 mm
+     Stock allow      : 0.30 mm
+     Stepover         : 31.50 mm
+     CutDir           : Lace cut
+     Tool reference   : Tip
+     NC Time          : 0:00:00  min
+     Cutter Name      : T FC D63 L250 R0
+     Cutter Length    : 250.00 mm
+     Total Tool Length: 270.00 mm
+     Tool Feed        : 0.000 mm
+
+ NC-Job:cwd-01 
+  Tool  : T FC D63 L250 R0  Flat cutter D=63.000 mm R=0.000 mm
+     Cutting data     : S=0 F=0 mm
+     Machine Axis     : A=0.000 C=0.000
+     Type             : 2-axis
+     Function         : MCont
+     Wall thick       : 0.00 mm
+     Stock allow      : 0.00 mm
+     Stepover         : 31.50 mm
+     CutDir           : Lace cut
+     Tool reference   : Tip
+     NC Time          : 0:00:00  min
+     Cutter Name      : T FC D63 L250 R0
+     Cutter Length    : 250.00 mm
+     Total Tool Length: 270.00 mm
+     Tool Feed        : 0.000 mm
+
+ NC-Job:cwd-02 
+  Tool  : T FC D20 L125 R0  Flat cutter D=20.000 mm R=0.000 mm
+     Cutting data     : S=0 F=0 mm
+     Machine Axis     : A=0.000 C=0.000
+     Type             : 2-axis
+     Function         : MCont
+     Wall thick       : 0.00 mm
+     Stock allow      : 0.00 mm
+     Stepover         : 10.00 mm
+     CutDir           : Lace cut
+     Tool reference   : Tip
+     NC Time          : 0:00:00  min
+     Cutter Name      : T FC D20 L125 R0
+     Cutter Length    : 125.00 mm
+     Total Tool Length: 205.00 mm
+     Tool Feed        : 0.000 mm
+
+ NC-Job:cr-01 
+  Tool  : T FC D32 L170 R0  Flat cutter D=32.000 mm R=0.000 mm
+     Cutting data     : S=0 F=0 mm
+     Machine Axis     : A=0.000 C=0.000
+     Type             : 2-axis
+     Function         : MCont
+     Wall thick       : 0.00 mm
+     Stock allow      : 0.00 mm
+     Stepover         : 16.00 mm
+     CutDir           : Lace cut
+     Tool reference   : Tip
+     NC Time          : 0:00:00  min
+     Cutter Name      : T FC D32 L170 R0
+     Cutter Length    : 170.00 mm
+     Total Tool Length: 260.00 mm
+     Tool Feed        : 0.000 mm
+
+ NC-Job:cr-02 
+  Tool  : T FC D32 L170 R0  Flat cutter D=32.000 mm R=0.000 mm
+     Cutting data     : S=0 F=0 mm
+     Machine Axis     : A=0.000 C=0.000
+     Type             : 2-axis
+     Function         : MCont
+     Wall thick       : 0.00 mm
+     Stock allow      : 0.00 mm
+     Stepover         : 16.00 mm
+     CutDir           : Lace cut
+     Tool reference   : Tip
+     NC Time          : 0:00:00  min
+     Cutter Name      : T FC D32 L170 R0
+     Cutter Length    : 170.00 mm
+     Total Tool Length: 260.00 mm
+     Tool Feed        : 0.000 mm
+
+ NC-Job:cr-03 
+  Tool  : T FC D25 L160 R0  Flat cutter D=25.000 mm R=0.000 mm
+     Cutting data     : S=0 F=0 mm
+     Machine Axis     : A=0.000 C=0.000
+     Type             : 2-axis
+     Function         : MCont
+     Wall thick       : 0.00 mm
+     Stock allow      : 0.00 mm
+     Stepover         : 12.50 mm
+     CutDir           : Lace cut
+     Tool reference   : Tip
+     NC Time          : 0:00:00  min
+     Cutter Name      : T FC D25 L160 R0
+     Cutter Length    : 160.00 mm
+     Total Tool Length: 250.00 mm
+     Tool Feed        : 0.000 mm
+
+ NC-Job:cr-04 
+  Tool  : T FC D25 L160 R0  Flat cutter D=25.000 mm R=0.000 mm
+     Cutting data     : S=0 F=0 mm
+     Machine Axis     : A=0.000 C=0.000
+     Type             : 2-axis
+     Function         : MCont
+     Wall thick       : 0.00 mm
+     Stock allow      : 0.00 mm
+     Stepover         : 12.50 mm
+     CutDir           : Lace cut
+     Tool reference   : Tip
+     NC Time          : 0:00:00  min
+     Cutter Name      : T FC D25 L160 R0
+     Cutter Length    : 160.00 mm
+     Total Tool Length: 250.00 mm
+     Tool Feed        : 0.000 mm
+
+ NC-Job:ss-01 
+  Tool  : T BC D32 L100  Ball cutter D=32.000 mm R=16.000 mm
+     Cutting data     : S=0 F=0 mm
+     Machine Axis     : A=0.000 C=0.000
+     Type             : 3-axis
+     Function         : MSurf
+     Wall thick       : 0.00 mm
+     Stock allow      : 0.20 mm
+     Stepover         : 1.50 mm
+     CutDir           : Lace cut
+     Tool reference   : Center
+     NC Time          : 0:00:00  min
+     Cutter Name      : T BC D32 L100
+     Cutter Length    : 100.00 mm
+     Total Tool Length: 220.00 mm
+     Tool Feed        : 0.000 mm
+
+ NC-Job:ss-02 
+  Tool  : T BC D32 L100  Ball cutter D=32.000 mm R=16.000 mm
+     Cutting data     : S=0 F=0 mm
+     Machine Axis     : A=0.000 C=0.000
+     Type             : 3-axis
+     Function         : MSurf
+     Wall thick       : 0.00 mm
+     Stock allow      : 0.20 mm
+     Stepover         : 1.50 mm
+     CutDir           : Lace cut
+     Tool reference   : Center
+     NC Time          : 0:00:00  min
+     Cutter Name      : T BC D32 L100
+     Cutter Length    : 100.00 mm
+     Total Tool Length: 220.00 mm
+     Tool Feed        : 0.000 mm
+
+ NC-Job:sw-01 
+  Tool  : T BC D20 L152  Ball cutter D=20.000 mm R=10.000 mm
+     Cutting data     : S=0 F=0 mm
+     Machine Axis     : A=0.000 C=0.000
+     Type             : 3-axis
+     Function         : MSurf
+     Wall thick       : 0.00 mm
+     Stock allow      : 0.00 mm
+     Stepover         : 0.35 mm
+     CutDir           : Lace cut
+     Tool reference   : Center
+     NC Time          : 0:00:00  min
+     Cutter Name      : T BC D20 L152
+     Cutter Length    : 152.00 mm
+     Total Tool Length: 232.00 mm
+     Tool Feed        : 0.000 mm
+
+ NC-Job:sw-02 
+  Tool  : T BC D20 L152  Ball cutter D=20.000 mm R=10.000 mm
+     Cutting data     : S=0 F=0 mm
+     Machine Axis     : A=0.000 C=0.000
+     Type             : 3-axis
+     Function         : MSurf
+     Wall thick       : 0.00 mm
+     Stock allow      : 0.00 mm
+     Stepover         : 0.35 mm
+     CutDir           : Lace cut
+     Tool reference   : Center
+     NC Time          : 0:00:00  min
+     Cutter Name      : T BC D20 L152
+     Cutter Length    : 152.00 mm
+     Total Tool Length: 232.00 mm
+     Tool Feed        : 0.000 mm
+
+ NC-Job:sr-01 
+  Tool  : T BC D16 L128  Ball cutter D=16.000 mm R=8.000 mm
+     Cutting data     : S=0 F=0 mm
+     Machine Axis     : A=0.000 C=0.000
+     Type             : 3-axis
+     Function         : MFillR
+     Wall thick       : 0.00 mm
+     Stock allow      : 0.03 mm
+     Stepover         : 0.30 mm
+     CutDir           : Climb cut
+     Tool reference   : Center
+     NC Time          : 0:00:00  min
+     Cutter Name      : T BC D16 L128
+     Cutter Length    : 128.00 mm
+     Total Tool Length: 208.00 mm
+     Tool Feed        : 0.000 mm
+
+ NC-Job:sr-02 
+  Tool  : T BC D12 L123  Ball cutter D=12.000 mm R=6.000 mm
+     Cutting data     : S=0 F=0 mm
+     Machine Axis     : A=0.000 C=0.000
+     Type             : 3-axis
+     Function         : MFillR
+     Wall thick       : 0.00 mm
+     Stock allow      : 0.03 mm
+     Stepover         : 0.25 mm
+     CutDir           : Climb cut
+     Tool reference   : Center
+     NC Time          : 0:00:00  min
+     Cutter Name      : T BC D12 L123
+     Cutter Length    : 123.00 mm
+     Total Tool Length: 203.00 mm
+     Tool Feed        : 0.000 mm
+
+ NC-Job:sr-03 
+  Tool  : T BC D08 L 98  Ball cutter D=8.000 mm R=4.000 mm
+     Cutting data     : S=0 F=0 mm
+     Machine Axis     : A=0.000 C=0.000
+     Type             : 3-axis
+     Function         : MFillR
+     Wall thick       : 0.00 mm
+     Stock allow      : 0.03 mm
+     Stepover         : 0.20 mm
+     CutDir           : Climb cut
+     Tool reference   : Center
+     NC Time          : 0:00:00  min
+     Cutter Name      : T BC D08 L 98
+     Cutter Length    : 98.00 mm
+     Total Tool Length: 178.00 mm
+     Tool Feed        : 0.000 mm
+
+ NC-Job:sr-04 
+  Tool  : T BC D06 L 40  Ball cutter D=6.000 mm R=3.000 mm
+     Cutting data     : S=0 F=0 mm
+     Machine Axis     : A=0.000 C=0.000
+     Type             : 3-axis
+     Function         : MFillR
+     Wall thick       : 0.00 mm
+     Stock allow      : 0.03 mm
+     Stepover         : 0.15 mm
+     CutDir           : Climb cut
+     Tool reference   : Center
+     NC Time          : 0:00:00  min
+     Cutter Name      : T BC D06 L 40
+     Cutter Length    : 40.00 mm
+     Total Tool Length: 120.00 mm
+     Tool Feed        : 0.000 mm
+
+ NC-Job:sr-05 
+  Tool  : BC D04  Ball cutter D=4.000 mm R=2.000 mm
+     Cutting data     : S=0 F=0 mm
+     Machine Axis     : A=0.000 C=0.000
+     Type             : 3-axis
+     Function         : MFillR
+     Wall thick       : 0.00 mm
+     Stock allow      : 0.03 mm
+     Stepover         : 0.10 mm
+     CutDir           : Climb cut
+     Tool reference   : Center
+     NC Time          : 0:00:00  min
+     Cutter Name      : BC D04
+     Cutter Length    : 40.00 mm
+     Total Tool Length: 40.00 mm
+     Tool Feed        : 0.000 mm
+
+ NC-Job:sr-06 
+  Tool  : T BC D02 L47  Ball cutter D=2.000 mm R=1.000 mm
+     Cutting data     : S=0 F=0 mm
+     Machine Axis     : A=0.000 C=0.000
+     Type             : 3-axis
+     Function         : MFillR
+     Wall thick       : 0.00 mm
+     Stock allow      : 0.03 mm
+     Stepover         : 0.05 mm
+     CutDir           : Climb cut
+     Tool reference   : Center
+     NC Time          : 0:00:00  min
+     Cutter Name      : T BC D02 L47
+     Cutter Length    : 47.00 mm
+     Total Tool Length: 121.00 mm
+     Tool Feed        : 0.000 mm
+
+ NC-Job:sr-07 
+  Tool  : T BC D01 L40  Ball cutter D=1.000 mm R=0.500 mm
+     Cutting data     : S=0 F=0 mm
+     Machine Axis     : A=0.000 C=0.000
+     Type             : 3-axis
+     Function         : MFillR
+     Wall thick       : 0.00 mm
+     Stock allow      : 0.03 mm
+     Stepover         : 0.05 mm
+     CutDir           : Climb cut
+     Tool reference   : Center
+     NC Time          : 0:00:00  min
+     Cutter Name      : T BC D01 L40
+     Cutter Length    : 40.00 mm
+     Total Tool Length: 114.00 mm
+     Tool Feed        : 0.000 mm
+
+ NC-Job:kx-01 
+  Tool  : T CT D6.6A45  Chamfer tool D=6.600 mm R=0.000 mm
+     Cutting data     : S=0 F=0 mm
+     Machine Axis     : A=0.000 C=0.000
+     Type             : 2-axis
+     Function         : MCurv
+     Wall thick       : 0.00 mm
+     Stock allow      : 0.00 mm
+     Stepover         : 0.00 mm
+     CutDir           : Lace cut
+     Tool reference   : Tip
+     NC Time          : 0:00:00  min
+     Cutter Name      : T CT D6.6A45
+     Cutter Length    : 25.00 mm
+     Total Tool Length: 105.00 mm
+     Tool Feed        : 0.000 mm
+
+
+

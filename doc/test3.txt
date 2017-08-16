@@ -1,0 +1,38 @@
+NC-Documentation: d:\work\2016\20161115ÌØÕ÷ÏßÊÔ¼þ-tzxsj\2.cad
+=============================================================================
+PUTNC Datei: 2-004    Time: Thu Nov 17 13:00:06 2016
+
+ NC-Job:SS-01 
+  Tool  : T BC D12 L123  Ball cutter D=12.000 mm R=6.000 mm
+     Cutting data     : S=3000 F=3000 mm
+     Machine Axis     : A=0.000 C=0.000
+     Type             : 3-axis
+     Function         : MSurf
+     Wall thick       : 0.00 mm
+     Stock allow      : 0.20 mm
+     Stepover         : 0.80 mm
+     CutDir           : Lace cut
+     Tool reference   : Center
+     NC Time          : 0:02:38  min
+     Cutter Name      : T BC D12 L123
+     Cutter Length    : 123.00 mm
+     Total Tool Length: 203.00 mm
+
+ NC-Job:SW-01 
+  Tool  : T BC D12 L123  Ball cutter D=12.000 mm R=6.000 mm
+     Cutting data     : S=3000 F=3000 mm
+     Machine Axis     : A=0.000 C=0.000
+     Type             : 3-axis
+     Function         : MSurf
+     Wall thick       : 0.00 mm
+     Stock allow      : 0.00 mm
+     Stepover         : 0.35 mm
+     CutDir           : Lace cut
+     Tool reference   : Center
+     NC Time          : 0:05:48  min
+     Cutter Name      : T BC D12 L123
+     Cutter Length    : 123.00 mm
+     Total Tool Length: 203.00 mm
+
+
+

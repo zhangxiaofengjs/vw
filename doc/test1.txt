@@ -1,0 +1,86 @@
+NC-Documentation: d:\work\2016\sk326\³µ¶¥cheding\op40\cgr_565_817_111_a_tool_design_op_40_78-72d-030117_sk3261cs_ys_20160122.cad
+=============================================================================
+PUTNC Datei: cgr_565_817_111_a_tool_design_op_40_78-72d-030117_sk3261cs_ys_20160122-007    Time: Thu Nov 17 13:00:06 2016
+
+ NC-Job:CRD
+  Tool  : T BC D20 L100  Ball cutter D=20.000 mm R=10.000 mm
+     Cutting data     : S=0 F=0 mm
+     Machine Axis     : A=0.000 C=0.000
+     Type             : 3-axis
+     Function         : MSurf
+     Wall thick       : 0.00 mm
+     Stock allow      : 0.00 mm
+     Stepover         : 1.00 mm
+     CutDir           : Lace cut
+     Tool reference   : Center
+     NC Time          : 1:00:00  min
+     Cutter Name      : T BC D20 L100
+     Cutter Length    : 100.00 mm
+     Total Tool Length: 230.00 mm
+
+ NC-Job:CWD 
+  Tool  : T BC D20 L100  Ball cutter D=20.000 mm R=10.000 mm
+     Cutting data     : S=0 F=0 mm
+     Machine Axis     : A=0.000 C=0.000
+     Type             : 3-axis
+     Function         : MSurf
+     Wall thick       : 0.00 mm
+     Stock allow      : 0.00 mm
+     Stepover         : 1.00 mm
+     CutDir           : Lace cut
+     Tool reference   : Center
+     NC Time          : 0:30:00  min
+     Cutter Name      : T BC D20 L100
+     Cutter Length    : 100.00 mm
+     Total Tool Length: 230.00 mm
+
+ NC-Job:SS-01 
+  Tool  : T BC D20 L100  Ball cutter D=20.000 mm R=10.000 mm
+     Cutting data     : S=0 F=0 mm
+     Machine Axis     : A=0.000 C=0.000
+     Type             : 3-axis
+     Function         : MSurf
+     Wall thick       : 0.00 mm
+     Stock allow      : 0.30 mm
+     Stepover         : 1.00 mm
+     CutDir           : Lace cut
+     Tool reference   : Center
+     NC Time          : 0:23:00  min
+     Cutter Name      : T BC D20 L100
+     Cutter Length    : 100.00 mm
+     Total Tool Length: 230.00 mm
+
+ NC-Job:SW-01 
+  Tool  : T BC D20 L100  Ball cutter D=20.000 mm R=10.000 mm
+     Cutting data     : S=0 F=0 mm
+     Machine Axis     : A=0.000 C=0.000
+     Type             : 3-axis
+     Function         : MSurf
+     Wall thick       : 0.00 mm
+     Stock allow      : 0.10 mm
+     Stepover         : 0.35 mm
+     CutDir           : Lace cut
+     Tool reference   : Center
+     NC Time          : 1:02:04  min
+     Cutter Name      : T BC D20 L100
+     Cutter Length    : 100.00 mm
+     Total Tool Length: 230.00 mm
+
+ NC-Job:SR-01 
+  Tool  : T BC D16 L100  Ball cutter D=16.000 mm R=8.000 mm
+     Cutting data     : S=0 F=0 mm
+     Machine Axis     : A=0.000 C=0.000
+     Type             : 3-axis
+     Function         : MFillR
+     Wall thick       : 0.00 mm
+     Stock allow      : 0.10 mm
+     Stepover         : 0.15 mm
+     CutDir           : Climb cut
+     Tool reference   : Center
+     NC Time          : 0:00:00  min
+     Cutter Name      : T BC D16 L100
+     Cutter Length    : 100.00 mm
+     Total Tool Length: 230.00 mm
+
+
+
